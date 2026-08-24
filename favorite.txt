@@ -1,1 +1,1 @@
-Favorite Git command: git diff
+Favorite Git commands: git diff and git log
